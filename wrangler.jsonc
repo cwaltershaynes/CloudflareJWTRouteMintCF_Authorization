@@ -1,7 +1,7 @@
 {
   "$schema": "node_modules/wrangler/config-schema.json",
 
-  "name": "haynesconnect-jwt-gate",
+  "name": "haynesconnectjwt",
 
   "main": "src/index.js",
 
